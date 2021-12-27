@@ -1,7 +1,7 @@
 # FijianHymnAppPrivacyPolicy
  Privacy Policy
 
-This privacy policy governs your use of the software application Fijian Hymn App (“Application”) for mobile devices that was created by C&C Solutions. The Application is offers Hymns sung at Church with the lyrics, notation and mp3 sound track.
+This privacy policy governs your use of the software application Fijian Hymn App (“Application”) for mobile devices that was created by C&C Solutions. The Application offers Hymns sung at the Church with the lyrics, notation and mp3 sound track.
 
 What information does the Application obtain and how is it used?
 
